@@ -1,0 +1,14 @@
+.bold{
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+}
+
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.highlight{
+    background-color: red;
+    color: white;
+}
+/*After looking at the solution I over thought these problems and I forgot to center the text/*
